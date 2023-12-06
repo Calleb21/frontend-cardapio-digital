@@ -43,7 +43,7 @@ Para realizar a integração com o Backend, você pode clonar o projeto e rodar 
 
 👉 [Desenvolvendo o Backend com Java Spring](https://www.youtube.com/watch?v=lUVureR5GqI&t=239s)
 
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/backend-cardapio-digital)
+👉 [Link do repositório](https://github.com/Calleb21/backend-cardapio-digital.git)
 
 ## 📝 Licença
 
